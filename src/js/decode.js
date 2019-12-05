@@ -6,28 +6,26 @@ export default function decode(s) {
 
 	let escLen = esc.length;
 	let len = s.length;
-	let org = '';
+	let newString = '';
 
 	for (let i = 0; i < len; i++ ) {
 
-		org = org + s[i];
+		newString = newString + s[i];
 
 		for (let m = 4; m > 0; m--) {
 
-			let letters = '';
+			let testChar = '';
 
 				for ( let n = m - 1; n >= 0; n--) {
 
-				letters = letters + s[i - n];
-
+				testChar = testChar + s[i - n];
 			}
 
 				for (let j = 0; j < escLen; j++ ) {
 
-				if (letters == esc[j]) { org = org.slice(0, - m) + html[j] }
-
+				if (testChar == esc[j]) { newString = newString.slice(0, - m) + html[j] }
 			}
 		}
 	}
-	return org;
+	return newString;
 }

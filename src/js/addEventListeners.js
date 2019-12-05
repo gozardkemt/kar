@@ -3,7 +3,7 @@ import generator from './generator.js';
 export default function addEventListeners(messages) {
 
 	const buttons = [].slice.call(document.getElementsByClassName('button'));
-	const output = document.getElementById('output');
+	const output = document.getElementById('generator__output');
 
 	buttons.forEach( function(button, index) {
 		button.addEventListener('click', function() {

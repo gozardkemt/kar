@@ -3,8 +3,10 @@
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- force IE newest engine -->
         <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- device width is same as viewport -->
+		<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
         <meta name="author" content="Gorazd Kmeť">
-        <title>The history of KAR</title>
+		<link rel="icon" type="image/png" href="images/favicon.png">
+        <title>KAR Klub</title>
         <!--[if lt IE 9]>
             <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
             <script src="http://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
@@ -13,15 +15,26 @@
     </head>
 <body>
     <div id="site">
-		<div id="title">
-			<h1>Klub anonymných romantikov</h1>
-			<h2>v číslach</h2>
-		</div>
-		<div id="main">
-			<form action="">
-				<div id="output"></div>
+		<header id="title">
+			<h5 class="title__subtitle">Živijó</h5>
+			<h3 id="title__main">Klub anonymných romantikov </h3>
+			<h5 class="title__subtitle">since 2015</h5>
+		</header>
+		<section id="intro">
+			<h6>Roku 2020 oslavuje K.A.R. svoju prvú paťročnicu a pri tejto príležitosti sa nebojme trochu zabilancovať:</h6>
+			<p>Prvú správu poslal:<br><span id="first__message"></span></p>
+			<p>Najväčší prispievateľ:<br><span id="most__messages"></span></p>
+			<p>Najviac znakov na správu:<br><span id="most__char"></span></p>
+		</section>
+		<main id="main">
+			<h6>Pokročilé bilancovanie:*</h6>
+			<article id="generator">
+				<div id="generator__output"></div>
 				<button class="button" id="generator__button" type="button">Nájdi náhodnú správu</button>
-			</form>
+			</article>
+		</main>
+		<div id="notes">
+			<p>* ďalšie funkcie a grafy budú snáď pribúdať počas roka</p>
 		</div>
 	</div>
 	</body>
