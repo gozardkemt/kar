@@ -469,6 +469,19 @@ there.
 }
 
 
+#most__messages--vis {
+	min-height: 9rem;
+	height: min-content;
+	width: min-content;
+	margin: 5rem auto;
+}
+
+div.bar {
+	display: block;
+	height: 25px;	/* Gets overridden by D3-assigned height below */
+	background-color: gray;
+	margin: 3px;
+}
 
 /* Others
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

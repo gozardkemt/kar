@@ -1,10 +1,4 @@
-import decode from './decode.js';
 
-/**
- * getData - description
- *
- * @return {type}  description
- */
 export const getMessages = async () => {
 
 	let messagesAll = [];
@@ -24,7 +18,11 @@ export const getMessages = async () => {
 	}
 
 	return {
-		messages: messagesAll,
+		messages: filterMessages(messagesAll),
 		users: users,
 	};
 };
+
+const filterMessages = (a) => {
+	return a.filter( m => m.content != undefined )
+}
