@@ -13,7 +13,7 @@ export function introStat(messagesAll) {
 
 	let firstMessage = messages[messages.length - 1];
 	let date = getDateFromMessage(firstMessage);
-	first.textContent =`${date.day}. ${date.month}. ${date.year} ${decode(firstMessage.sender_name)} s obsahom: "${firstMessage.content}"`;
+	first.textContent = `${date.day}. ${date.month}. ${date.year} ${decode(firstMessage.sender_name)} s obsahom: "${firstMessage.content}"`;
 
 	let messCount = counterMess(messagesAll);
 	let mostMessages = winnerFrom(messCount);
@@ -50,9 +50,10 @@ export function introStat(messagesAll) {
 
 function winnerFrom(messages) {
 
-	let num = 0, winner = '';
+	let num = 0,
+		winner = '';
 
-	for ( let karista in messages) {
+	for (let karista in messages) {
 
 		if (messages[karista] > num) {
 			num = messages[karista];
@@ -62,7 +63,7 @@ function winnerFrom(messages) {
 
 	return {
 		name: decode(winner),
-		count: Math.round( num * 100 + Number.EPSILON ) / 100
+		count: Math.round(num * 100 + Number.EPSILON) / 100
 	};
 }
 
@@ -70,7 +71,7 @@ function charForMess(messCount, charsCount) {
 
 	let kar = {};
 
-	for (let karChar in charsCount ) {
+	for (let karChar in charsCount) {
 		for (let karMess in messCount) {
 
 			if (karChar == karMess) {

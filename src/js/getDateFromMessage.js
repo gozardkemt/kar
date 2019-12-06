@@ -1,5 +1,3 @@
-
-
 export function getDateFromMessage(message) {
 	let time = message.timestamp_ms;
 	let date = new Date(time);

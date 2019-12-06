@@ -1,4 +1,3 @@
-
 export function getRandomMessage(messages) {
 	return messages[getRandomNumber(messages.length - 1)];
 }

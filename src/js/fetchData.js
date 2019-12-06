@@ -1,4 +1,3 @@
-
 export const getMessages = async () => {
 
 	let messagesAll = [];
@@ -9,10 +8,12 @@ export const getMessages = async () => {
 
 		let url = `http://localhost:8080/data/message_${i}.json`;
 		let messages = await fetch(url);
-		messages =  await messages.json();
+		messages = await messages.json();
 
-		if (done) { users = messages.participants }
-		messagesAll = [ ...messagesAll, ...messages.messages];
+		if (done) {
+			users = messages.participants
+		}
+		messagesAll = [...messagesAll, ...messages.messages];
 
 		done = false;
 	}
@@ -24,5 +25,5 @@ export const getMessages = async () => {
 };
 
 const filterMessages = (a) => {
-	return a.filter( m => m.content != undefined )
+	return a.filter(m => m.content != undefined)
 }

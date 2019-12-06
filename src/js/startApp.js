@@ -5,10 +5,8 @@ import {mostMessVis} from './mostMessagesVis.js';
 
 export default async function startApp() {
 
-const messagesAll = await getMessages();
-
-addEventListeners(messagesAll.messages);
-introStat(messagesAll);
-mostMessVis(messagesAll);
-
+	const messagesAll = await getMessages();
+	addEventListeners(messagesAll.messages);
+	introStat(messagesAll);
+	mostMessVis(messagesAll);
 }

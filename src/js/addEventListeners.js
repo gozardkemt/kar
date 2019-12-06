@@ -5,7 +5,7 @@ export default function addEventListeners(messages) {
 	const buttons = [].slice.call(document.getElementsByClassName('button'));
 	const output = document.getElementById('generator__output');
 
-	buttons.forEach( function(button, index) {
+	buttons.forEach(function(button, index) {
 		button.addEventListener('click', function() {
 			output.innerHTML = '';
 			let fnToExecute = allFn[index].fnToExecute;
@@ -14,12 +14,12 @@ export default function addEventListeners(messages) {
 	})
 }
 
-const allFn =  [
+const allFn = [
 
-{
-	buttonID: 'generator__button',
-	innerText: 'Nájdi náhodnú správu',
-	fnToExecute: generator
-}
+	{
+		buttonID: 'generator__button',
+		innerText: 'Nájdi náhodnú správu',
+		fnToExecute: generator
+	}
 
 ];
