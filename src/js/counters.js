@@ -8,15 +8,14 @@ export function counterMess(messagesAll) {
 		let name = users[i].name;
 		kar[name] = 0;
 
-		messagesAll.messages.forEach(mess => {
+		messagesAll.messages.forEach(m => {
 
-			if (mess.sender_name == name) {
+			if (m.sender_name == name) {
 				kar[name]++
 			}
 
 		});
 	}
-
 	return kar
 }
 
@@ -52,18 +51,18 @@ export function counterWords(messages) {
 
 	for (let i = 0; i < arrayOfWords.length; i++) {
 
-		let word = arrayOfWords[i];
+		let w = arrayOfWords[i];
 
-		if (!wordCounts[word]) {
-			wordCounts[word] = 1;
+		if (!wordCounts[w]) {
+			wordCounts[w] = 1;
 		} else {
-			wordCounts[word]++;
+			wordCounts[w]++;
 		}
 	}
 
 	for (let w in wordCounts) {
 
-		if (w.length < 3 || wordCounts[w] < 100) { // slovo musí mať aspoň tri znaky alebo mať aspoň 100 výskytov
+		if (wordCounts[w] < 175 || w.length < 3) {
 			delete wordCounts[w]
 		}
 	}
@@ -76,12 +75,8 @@ function arrayFromArrayOfObjectValues(messages) {
 	let a = '';
 
 	messages.forEach(m => {
-		a = a + ' ' + deleteSpecialCharacters(m.content);
+		a = a + ' ' + m.content.replace(/[^\w\s]/gi,'').toLowerCase();
 	})
 
 	return a.split(/\s+/);
 }
-
-const deleteSpecialCharacters = (s) => {
-	return s.replace(/[^\w\s]/gi, '').toLowerCase()
-};

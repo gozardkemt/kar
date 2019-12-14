@@ -13,7 +13,7 @@ export function introStat(messagesAll) {
 
 	let firstMessage = messages[messages.length - 1];
 	let date = getDateFromMessage(firstMessage);
-	first.textContent = `${date.day}. ${date.month}. ${date.year} ${decode(firstMessage.sender_name)} s obsahom: "${firstMessage.content}"`;
+	first.textContent = `${date.day}. ${date.month}. ${date.year} ${decode(firstMessage.sender_name)} s obsahom: "${firstMessage.content}"`;
 
 	let messCount = counterMess(messagesAll);
 	let mostMessages = winnerFrom(messCount);
@@ -25,28 +25,13 @@ export function introStat(messagesAll) {
 	char.textContent = `${highestRates.name} píše priemerne najdlhšie správy (${highestRates.count} znakov na správu)`;
 
 	let wordCounts = counterWords(messages);
-	word.textContent = `
-						kokot (${wordCounts.kokot}x),
-						idem (${wordCounts.idem}x),
-						teraz (${wordCounts.teraz}x),
-						sigi (${wordCounts.sigi}x),
-						sigy (${wordCounts.sigy}x),
-						pici (${wordCounts.pici}x),
-						chlapci (${wordCounts.chlapci}x),
-						neviem (${wordCounts.neviem}x),
-						pivo (${wordCounts.pivo}x),
-						sex (${wordCounts.sex}x),
-						byt (${wordCounts.byt}x),
-						jozo (${wordCounts.jozo}x),
-						edo (${wordCounts.edo}x),
-						ondo (${wordCounts.ondo}x),
-						goro (${wordCounts.goro}x),
-						miro (${wordCounts.miro}x),
-						dominik (${wordCounts.dominik}x),
-						dominika (${wordCounts.dominika}x)
-						`
+	console.log(wordCounts);
+	let text = '';
+	for (let word in wordCounts) {
+		text = text + word + '(' + wordCounts[word] + 'x) '
+	}
+	word.textContent = text;
 }
-
 
 function winnerFrom(messages) {
 

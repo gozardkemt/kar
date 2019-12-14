@@ -10,7 +10,7 @@
     "dev": "webpack --config webpack.dev.js",
     "prod": "webpack --config webpack.prod.js",
     "watch": "npm run dev -- --watch",
-    "start": "webpack-dev-server --config webpack.dev.js --open 'Firefox Developer Edition'",
+    "start": "webpack-dev-server --config webpack.dev.js --cors --open 'Firefox Developer Edition'",
     "hot": "webpack-dev-server --config webpack.dev.js --hotOnly",
     "test": "mocha"
   },

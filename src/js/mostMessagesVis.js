@@ -12,6 +12,6 @@ export function mostMessVis(messagesAll) {
 		.append('div')
 		.attr("class", "bar")
 		.style("width", function(d) {
-			return d / 800 + "vw";
+			return d / 700 + "rem";
 		})
 }

@@ -1,47 +1,75 @@
 <!DOCTYPE html>
-<html lang="sk">
-    <head>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- force IE newest engine -->
-        <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- device width is same as viewport -->
-		<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-        <meta name="author" content="Gorazd Kmeť">
-		<link rel="icon" type="image/png" href="images/favicon.png">
-        <title>KAR Klub</title>
-        <!--[if lt IE 9]>
-            <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-            <script src="http://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
-            <script src="http://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
-        <![endif]-->
-    </head>
-<body>
-    <div id="site">
-		<header id="title">
-			<h5 class="title__subtitle">Živijó, mery xmas a šnr </h5>
-			<h3 id="title__main">Klub anonymných romantikov </h3>
-			<h5 class="title__subtitle">since 2015</h5>
-		</header>
-		<section id="intro">
-			<h6>Roku 2020 oslavuje K.A.R. svoju prvú paťročnicu a pri tejto príležitosti sa nebojme trochu zabilancovať:</h6>
-			<p>Prvú správu poslal:<br><span id="first__message"></span></p>
-			<p>Najväčší prispievateľ:<br><span id="most__messages"></span></p>
-			<p>Najviac znakov na správu:<br><span id="most__char"></span></p>
-			<p>Najpoužívanejšie slová:<br><span id="most__word"></span></p>
-		</section>
-		<main id="main">
-			<article>
-				<div id="most__messages--vis">
-					<h6>Rebríček všetkých:*</h6>
+<html>
+<title>Klub romantikov</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body class="w3-content" style="max-width:1300px">
 
-				</div>
-			</article>
-			<article id="generator">
-				<div id="generator__output"></div>
-				<button class="button" id="generator__button" type="button">Nájdi náhodnú správu</button>
-			</article>
-		</main>
-		<div id="notes">
-			<p>* ďalšie funkcie a grafy budú snáď pribúdať počas roka</p>
-		</div>
+<!-- First Grid: Logo & About -->
+<div class="w3-row">
+  <div class="w3-half w3-black w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+	<h6>🎄 Živijó, mery xmas a šnr 🎄</h6>
+      <h1>Klub anonymných romantikov</h1>
+	  <h6>texting since 2015</h6>
+    </div>
+	<p>Roku 2020 oslavuje K.A.R. svoju prvú paťročnicu.</p><p>Táto príležitosť si núka trochu štatistík z fb skupiny:</p>
+    <div class="w3-padding-64">
+		<img src="https://mondrian.mashable.com/2013%252F07%252F19%252F92%252Ftoothpastef.28c84.jpg%252F1438x0.jpg?signature=wDf6v6QtINrwlvzioEewIxIBv6Q=" style="max-width:65%">
+    </div>
+  </div>
+  <div class="w3-half w3-blue-grey w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-center">
+      <h1>Kto, kedy a ako</h1>
+      <img src="https://cdn.iconscout.com/icon/free/png-512/competition-olympics-position-rank-winner-winning-1-25297.png" class="w3-margin w3-circle" alt="Person" style="width:25%">
+      <div class="w3-left-align w3-padding-large">
+		  <p class="who_text">Prvú správu poslal:</p><span id="first__message"></span>
+		  <p class="who_text">Najväčší prispievateľ:</p><span id="most__messages"></span>
+		  <p class="who_text">Najviac znakov na správu:</p><span id="most__char"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid: Work & Resume -->
+<div class="w3-row">
+  <div d="most__words" class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+    <div class="w3-padding-64">
+      <h2>↓ Najpoužívanejšie slová ↓</h2>
+      <p>(všetky nad 175 výskytov)</p>
+    </div>
+	<p i><span id="most__word"></span></p>
+  </div>
+  <div class="w3-half w3-indigo w3-container" style="min-height:800px">
+    <div class="w3-padding-64 w3-center">
+      <h2>Rebríček top prispevateľov</h2>
+      <p>graficky</p>
+    </div>
+	<div id="most__messages--vis">
 	</div>
-	</body>
+  </div>
+</div>
+<!-- Third Grid: Swing By & Contact -->
+<div class="w3-row">
+  <div class="w3-half w3-dark-grey w3-container w3-center" id="contact" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>Náhodná správa</h1>
+    </div>
+    <div id="generator">
+		<div id="generator__output"></div>
+		<button class="button" id="generator__button" type="button">Nájdi náhodnú správu</button>
+    </div>
+  </div>
+  <div class="w3-half w3-teal w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-padding-large">
+      <h1>Poznámky</h1>
+	  <p>* ďalšie funkcie a grafy budú snáď pribúdať počas roka</p>
+    </div>
+  </div>
+</div>
+<footer class="w3-container w3-black w3-padding-16">
+  <p>❄️ Vianoce Bratislava 2019 ❄️</p>
+</footer>
+
+</body>
 </html>
