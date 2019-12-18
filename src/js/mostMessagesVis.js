@@ -4,14 +4,16 @@ import {counterMess} from './counters.js';
 export function mostMessVis(messagesAll) {
 
 	const m = counterMess(messagesAll);
+	console.log(m);
 	const s = Object.values(m).sort((a, b) => b - a);
 
-	d3.select('#most__messages--vis').selectAll('div')
+	d3.select('#most__messages--vis').selectAll('progress')
 		.data(s)
 		.enter()
-		.append('div')
+		.append('progress')
 		.attr("class", "bar")
-		.style("width", function(d) {
-			return d / 700 + "rem";
+		.attr("max", '17790')
+		.attr("value", function(d) {
+			return d;
 		})
 }
