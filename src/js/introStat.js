@@ -25,7 +25,6 @@ export function introStat(messagesAll) {
 	char.textContent = `${highestRates.name} píše priemerne najdlhšie správy (${highestRates.count} znakov na správu)`;
 
 	let wordCounts = counterWords(messages);
-	console.log(wordCounts);
 	let text = '';
 	for (let word in wordCounts) {
 		text = text + word + '(' + wordCounts[word] + 'x) '

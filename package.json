@@ -1,5 +1,5 @@
 {
-  "name": "empty-project",
+  "name": "Klub",
   "version": "1.0.0",
   "description": "",
   "main": "src/js/index.js",
@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "dev": "webpack --config webpack.dev.js",
-    "prod": "webpack --config webpack.prod.js",
+    "build": "webpack --config webpack.prod.js",
     "watch": "npm run dev -- --watch",
     "start": "webpack-dev-server --config webpack.dev.js --cors --open 'Firefox Developer Edition'",
     "hot": "webpack-dev-server --config webpack.dev.js --hotOnly",
@@ -19,6 +19,7 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.7.4",
+    "@babel/plugin-transform-runtime": "^7.7.6",
     "@babel/preset-env": "^7.7.4",
     "autoprefixer": "^9.7.2",
     "babel-loader": "^8.0.6",
@@ -42,6 +43,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "@babel/runtime": "^7.7.7",
     "d3": "^5.14.2"
   }
 }

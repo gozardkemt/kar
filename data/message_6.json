@@ -31,6 +31,1057 @@
   "messages": [
     {
       "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435217212313,
+      "content": "potetujes sa cela sa zmenis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Radko Vit\u00c3\u00a9z",
+      "timestamp_ms": 1435215607327,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435213498872,
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435213311520,
+      "content": "rozid sa so sigim=zacne ti jebat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435213145543,
+      "content": "Goro haloo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435212742458,
+      "content": "tak super",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Radko Vit\u00c3\u00a9z",
+      "timestamp_ms": 1435211507973,
+      "content": "A celom dobre to bolo :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Radko Vit\u00c3\u00a9z",
+      "timestamp_ms": 1435211486797,
+      "content": "Caute chalani v\u00c4\u008dera som bol beha\u00c5\u00a5 stou \u00c5\u00beenou co som pisal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1435189663156,
+      "content": "ma\u00c5\u00a5a m\u00c3\u00a1 \u00c4\u008derven\u00c3\u00a9 vlasy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435166271272,
+      "content": "co tam je?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435165663638,
+      "content": "Pri lekarni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435165614159,
+      "content": "de ste?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435163703504,
+      "content": "Ebenso",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435163632037,
+      "content": "unterwegs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435163350312,
+      "content": "Jo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435162574877,
+      "content": "Ide niekto z karu na grejp?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435156391012,
+      "content": "No skusim daco pohladat ked dojdeme do jura",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435155664902,
+      "content": "Fuserska organiz\u00c3\u00a1cia cele",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435155519773,
+      "content": "Kokot lebo krasnu excel tabu\u00c4\u00beku urob\u00c3\u00adm aj s \u00c4\u008dasmi smenami a chalani a je teraz \u00c3\u00baplne na picu. Hrozna robota",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435155354458,
+      "content": "Mwno?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154985311,
+      "content": "Jj formular vytvorit ze mwno a ponuky na casy a pozicie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435154924716,
+      "content": "Tak a keby sa dalo zapisovat aj potom, ned\u00c3\u00a1 sa take v google doc, alebo take nie\u00c4\u008do?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154922362,
+      "content": "Inak ani neviem ako vlastne vyzerala",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154912444,
+      "content": "A preco sa rozchadzaju ci co s tym talianom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154866359,
+      "content": "Tiez to potrebujem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154858802,
+      "content": "To neviem ani ja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435154852361,
+      "content": "V\u00c5\u00bedy do ka\u00c5\u00bedej smeny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435154734278,
+      "content": "Jj proste vymedzi\u00c5\u00a5 pocet \u00c4\u00beud\u00c3\u00ad, ktor\u00c3\u00bd ked sa zaplni u\u00c5\u00be sa nebude da\u00c5\u00a5 zapisovat... Kde take urob\u00c3\u00adm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154657615,
+      "content": "A cekovat ci je presny pocet ludi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154656165,
+      "content": "Jedine cez formular",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154654075,
+      "photos": [
+        {
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11650907_10205891773147924_1378753662_n_10205891773147924.jpg",
+          "creation_timestamp": 1435154652
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435154612691,
+      "content": "Teda s google, potrebujem form\u00c3\u00a1t, kde sa bud\u00c3\u00ba chalani zapisovat na smeny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154589413,
+      "content": "najprv musim vybavit aby sa rozisla s talianom, toto je komplikovanejsi proces",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154569389,
+      "content": "Ako",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435154556964,
+      "content": "Sigi potrebujem pom\u00c3\u00b4c\u00c5\u00a5 s excelovskou tabulkou",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154540646,
+      "content": "Hnevam sa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154538272,
+      "content": "By som si to vybavil ted uz nic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154517144,
+      "content": "aj tak neprides",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154514884,
+      "content": ",",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154514184,
+      "content": "a co ked vybavim%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154490128,
+      "content": "No nevybavil si",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154447942,
+      "content": "picu hej?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154439821,
+      "content": "V svatom jure budwme robit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154408204,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154407325,
+      "content": "SIGI preco nejdes%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154401161,
+      "content": "ale idem aj s dom tak je tazsi management",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154392194,
+      "content": "este aj s monik som sa dohodol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435154387352,
+      "content": "ja idem na nejaku siedmu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435154372048,
+      "content": "Never",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435151231734,
+      "content": "kedy sa chystate na ten grejp?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435132119891,
+      "photos": [
+        {
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11541180_826621927444951_425347360_n_826621927444951.jpg",
+          "creation_timestamp": 1435132119
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435118009127,
+      "content": "cigaretka rano o 5 v haindburgu jak lusk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435117993574,
+      "content": "hlasim prichod do prace",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435088149082,
+      "content": "Niekto ste v meste?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435087635883,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435085047545,
+      "content": "tak sup sup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435084978235,
+      "content": "Musim to zorgabizovat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435084935313,
+      "content": "a jozo dojde  buduca matka mojich deti zajtra na grape tlacovku?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435084891266,
+      "content": "kde tu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435081789581,
+      "content": "Lebo skm tu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435080445189,
+      "content": "preco?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435080438437,
+      "content": "doma som",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435080418145,
+      "content": "Nesi v lamaci?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435080370855,
+      "content": "okej, tak bookni stvrtok ruzinov :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435080308321,
+      "content": "Nebol opusteny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435080305982,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435080297434,
+      "content": "Ale ano musel dom hrat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435080278516,
+      "content": "dobre hral aspon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435080244034,
+      "content": "6261",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435079476364,
+      "content": "60 60",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435079302842,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435079302268,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435078452419,
+      "content": "ako skoncil tenis?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435069675104,
+      "content": "Tiez vytazeny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435068893673,
+      "content": "my sme s ondom uplne out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435068742391,
+      "content": "niekto in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435066728481,
+      "content": "lujz ma dnes vola sem: https://www.facebook.com/events/479719662197666/",
+      "share": {
+        "link": "https://www.facebook.com/events/479719662197666/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435059140411,
+      "content": "Oo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435057997711,
+      "content": "Lublin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435057106376,
+      "content": "Kde v polsku?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435053131763,
+      "content": "je roztopasny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435052595417,
+      "content": "ta posle zas do madarska",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435052590538,
+      "content": "uz mu never",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435051436858,
+      "content": "zas taral moj ze na dajaake borneo pojdeme",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435049344912,
+      "content": "za",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435049343528,
+      "content": "tak dobre ja som sa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435049024804,
+      "content": "sukat ta bude v polsku",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435048901666,
+      "content": "hentu mi dohod a nauc ju po polski",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435048813404,
+      "content": "naco ti ja mam hladat frajerku tu, ved ty potrebujes uz nejaku polku",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435048763641,
+      "content": "ved toto",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435048276677,
+      "content": "fuu kamo skoro jak ruzinov dubravka",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435047838237,
+      "content": "pici",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435047837141,
+      "content": "673km",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435047806873,
+      "content": "zubrofka pojde potokom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mirec Kriz",
+      "timestamp_ms": 1435047643241,
+      "content": "luxus :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435047595538,
+      "content": "lublin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435047592499,
+      "content": "3 mesiace",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435047587985,
+      "content": "na kolko?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435047569692,
+      "content": "1. november",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1435047221813,
+      "content": "Kedy?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435047050723,
+      "content": "tak nakoniec idem do polska",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435046995425,
+      "content": "jaj ide hudo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ondro Polacek",
+      "timestamp_ms": 1435046952598,
+      "content": "len nvm ake mu mam dat dalsie info?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ondro Polacek",
+      "timestamp_ms": 1435046931615,
+      "content": "hudo ide",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ondro Polacek",
+      "timestamp_ms": 1435046930667,
+      "content": "s trebou robit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1435046825930,
+      "content": "sigi niekto na zajtra sa neprihlasil?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1435046812091,
+      "content": "dobre len prekombinovane",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435038696031,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1435038693544,
+      "content": "A bolo to dobre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1435000041657,
+      "content": "bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1435000008108,
+      "content": "Ja sa tesim za teba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434999990461,
+      "content": "ty mas ale orange nie. to je pre upc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1434999769456,
+      "content": "Wuej",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434997230312,
+      "content": "kvoli tru detectiv\u00c5\u0088",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434997222228,
+      "content": "hbo je zadarmo na dve hodiny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1434997199204,
+      "content": "Ja som cely den v posteli so psom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434997084052,
+      "content": "nie pekna nadherna",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Radko Vit\u00c3\u00a9z",
+      "timestamp_ms": 1434993382144,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Radko Vit\u00c3\u00a9z",
+      "timestamp_ms": 1434993381539,
+      "content": "Pekn\u00c3\u00a1 baba kde na ne chodite?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434993129631,
+      "content": "co",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434993051582,
+      "content": "Mam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434991913453,
+      "content": "sam si velky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434990761867,
+      "content": "Uz sme velki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434990701344,
+      "content": "ju stalkujes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434990455025,
+      "content": "https://scontent-fra3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/10374526_10153348390805279_8854529848285328032_n.jpg?oh=e8d0c34335fd7b166c0ce8f402e6b8ca&oe=5628DC53",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434989397325,
+      "content": "\u00c5\u00beijeme si",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434989093002,
+      "content": "a mam v tom aj diety",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434989085529,
+      "content": "ja idem zaviest veduceho na letisko do viedne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434988828347,
+      "content": "btw idem znova do ostravy na teambulding a konferenciu internu a budem to mat zaplatene normalne ako odpracovany cas ... winwin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434988720626,
+      "content": "Uvidim ako stihnem napisat dnes diplo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434988572543,
+      "content": "ale utorok vecer mozme dakam skocit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434988367840,
+      "content": "tak to som doma",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434988364677,
+      "content": "dnes davaju na upc zadarmo hbo kvoli tru detective",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434988312191,
+      "content": "Len v stredu dojde uz dominika",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434988283475,
+      "content": "s jo\u00c5\u00beom n\u00c3\u00a1m to ide celkom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434986915433,
+      "content": "goro sa nezda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434986875766,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434986872595,
+      "content": "a ja som chcel pobozkat tu druhu a ona \u00c5\u00bee ja nie som taka",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434986855274,
+      "content": "pametam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434986845821,
+      "content": "ahaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434986815668,
+      "content": "Ona sla za segrou a potom dlho nic a ty si ich donutil priaadnut si a potom sme s nimi kalili v dole do rana",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434986786246,
+      "content": "Boli sme novopackej oproti hostelu a tieto dve sa nam pacili a ja som siel na bar ked tam bola aj ona a dal som nejaky vtip a sme sa bavili a povedal som ze si nozu ptisadnut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434986657003,
+      "content": "teda situaciu \u00c4\u008do sa dialo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434986625071,
+      "content": "pripomen mi kde sme ju zbalili?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434981626115,
+      "content": "ale to je davno uz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434981618009,
+      "content": "hej",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434981536002,
+      "content": "picu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434981519986,
+      "content": "v novopackej",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434981295971,
+      "content": "hmm a kde ste ju nasli?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1434980306999,
+      "content": "Jak nemal...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434980279687,
+      "content": "nieco ako ty edo len ty si nemal job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434980255580,
+      "content": "dropla job v banke a hlada zmysel zivota",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1434979896442,
+      "content": "Imigrant\u00c3\u00b4\u00c4\u008dka",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1434979882510,
+      "content": "Achjaj zlata je",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434979846738,
+      "content": "nevie zabudnut:)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434979841660,
+      "content": "to sme s gorom zbalili este v novembri a teraz sa ozvala",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fikret Sohlberg",
+      "timestamp_ms": 1434979749273,
+      "content": "To mas odkial?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ondro Polacek",
+      "timestamp_ms": 1434978673938,
+      "content": "ok ok idem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434978588997,
+      "content": "tejto sa o mne sniva: https://scontent-vie1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1467467_10153404437214324_8805232309023194069_n.jpg?oh=8e8adcd52dde89cdf428ced5e8ec9ff8&oe=5625DC0C",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434978557209,
+      "content": "Mam ta cakat ondo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434978360564,
+      "content": "Raca",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Martin \u00c5\u00a0tef\u00c3\u00a1nik",
+      "timestamp_ms": 1434978349265,
+      "content": "hovor zlyhal, ty si niekde isiel tunelom ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434978344581,
+      "content": "15:15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ondro Polacek",
+      "timestamp_ms": 1434978329017,
+      "content": "kedy ma dojst?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434978299895,
+      "content": "Uz som vo vlaku",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434977815119,
+      "content": "Klido",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ondro Polacek",
+      "timestamp_ms": 1434975559285,
+      "content": "iba ze by sme skocili na kebab po ceste :-P",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434975339090,
+      "content": "Ondik dojdes po mna na stanicu?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gorazd Kme\u00c5\u00a5",
+      "timestamp_ms": 1434971903741,
+      "content": "gratul\u00c3\u00a1cie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
+      "timestamp_ms": 1434970258706,
+      "content": "tak mata zobrali",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jozef Negli",
+      "timestamp_ms": 1434970209775,
+      "content": "idem asi s dom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jura Kl\u00c3\u00a1sek",
       "timestamp_ms": 1434970094201,
       "content": "chod s matou",
       "type": "Generic"
@@ -1176,7 +2227,7 @@
       "timestamp_ms": 1434725237356,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11639638_824671757639968_603953289_o_824671757639968.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11428992_824671757639968_603953289_n_824671757639968.jpg",
           "creation_timestamp": 1434725235
         }
       ],
@@ -1989,7 +3040,7 @@
       "timestamp_ms": 1434613767810,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11638886_10153068924669005_733652304_o_10153068924669005.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11421512_10153068924669005_733652304_n_10153068924669005.jpg",
           "creation_timestamp": 1434613765
         }
       ],
@@ -7846,7 +8897,7 @@
       "timestamp_ms": 1433882621221,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11324182_10205785208123865_1620175623_o_10205785208123865.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11304443_10205785208123865_1620175623_n_10205785208123865.jpg",
           "creation_timestamp": 1433882620
         }
       ],
@@ -10031,7 +11082,7 @@
       "timestamp_ms": 1433518142706,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11332499_10205482043963564_1882622711_o_10205482043963564.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11311871_10205482043963564_1882622711_n_10205482043963564.jpg",
           "creation_timestamp": 1433518141
         }
       ],
@@ -11632,7 +12683,7 @@
       "timestamp_ms": 1433357257650,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11416693_10205473415067847_1526472125_o_10205473415067847.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11281803_10205473415067847_1526472125_n_10205473415067847.jpg",
           "creation_timestamp": 1433357255
         }
       ],
@@ -20190,7 +21241,7 @@
       "timestamp_ms": 1431970723054,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11297204_10205328848973785_1882526776_o_10205328848973785.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11282019_10205328848973785_1882526776_n_10205328848973785.jpg",
           "creation_timestamp": 1431970721
         }
       ],
@@ -22947,7 +23998,7 @@
       "content": "vecer idem k edovi",
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11101444_10152980133789005_1170554327_o_10152980133789005.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11251569_10152980133789005_1170554327_n_10152980133789005.jpg",
           "creation_timestamp": 1431531681
         }
       ],
@@ -24427,7 +25478,7 @@
       "timestamp_ms": 1431285143503,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11211524_10205288833893433_2014387760_o_10205288833893433.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11256477_10205288833893433_2014387760_n_10205288833893433.jpg",
           "creation_timestamp": 1431285141
         }
       ],
@@ -26491,7 +27542,7 @@
       "timestamp_ms": 1431077803367,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11211487_804648396308971_1929570583_o_804648396308971.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11160259_804648396308971_1929570583_n_804648396308971.jpg",
           "creation_timestamp": 1431077801
         }
       ],
@@ -27998,7 +29049,7 @@
       "timestamp_ms": 1430945511621,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11221062_10205269538931071_865197502_o_10205269538931071.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11120908_10205269538931071_865197502_n_10205269538931071.jpg",
           "creation_timestamp": 1430945509
         }
       ],
@@ -28009,7 +29060,7 @@
       "timestamp_ms": 1430945491990,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11212034_10205269538171052_1749721367_o_10205269538171052.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11121291_10205269538171052_1749721367_n_10205269538171052.jpg",
           "creation_timestamp": 1430945489
         }
       ],
@@ -32663,7 +33714,7 @@
       "timestamp_ms": 1430470177588,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11187544_10205240899055092_326405241_o_10205240899055092.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11180149_10205240899055092_326405241_n_10205240899055092.jpg",
           "creation_timestamp": 1430470173
         }
       ],
@@ -36427,7 +37478,7 @@
       "timestamp_ms": 1429982880794,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11182813_10205200381002166_227323730_o_10205200381002166.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11124809_10205200381002166_227323730_n_10205200381002166.jpg",
           "creation_timestamp": 1429982879
         }
       ],
@@ -39799,7 +40850,7 @@
       "timestamp_ms": 1429516522401,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11065996_10152932460224005_161193379_o_10152932460224005.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11180172_10152932460224005_161193379_n_10152932460224005.jpg",
           "creation_timestamp": 1429516520
         }
       ],
@@ -47968,7 +49019,7 @@
       "timestamp_ms": 1428678264050,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11153969_10205096675769600_1609971718_o_10205096675769600.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11145982_10205096675769600_1609971718_n_10205096675769600.jpg",
           "creation_timestamp": 1428678258
         }
       ],
@@ -50776,7 +51827,7 @@
       "content": "toto teraz konzumujem keby ste sa za\u00c3\u00bajimali",
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11093966_10152904726739005_1509305994_o_10152904726739005.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11131838_10152904726739005_1509305994_n_10152904726739005.jpg",
           "creation_timestamp": 1428403082
         }
       ],
@@ -50868,7 +51919,7 @@
       "timestamp_ms": 1428384289318,
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11148152_10205073788557434_1571749277_o_10205073788557434.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11079204_10205073788557434_1571749277_n_10205073788557434.jpg",
           "creation_timestamp": 1428384278
         }
       ],
@@ -51892,7 +52943,7 @@
       "content": "karista ide beha\u00c5\u00a5",
       "photos": [
         {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11087119_10152900973129005_22862806_o_10152900973129005.jpg",
+          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11139895_10152900973129005_22862806_n_10152900973129005.jpg",
           "creation_timestamp": 1428257199
         }
       ],
@@ -61121,1077 +62172,6 @@
       "sender_name": "Ondro Polacek",
       "timestamp_ms": 1427623438567,
       "content": "star\u00c3\u00a1 hlava",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427623256764,
-      "content": "6 rokov",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427623251968,
-      "content": "Ale zas medinu skoncila",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427620573280,
-      "content": "Good luck sigi",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427617899604,
-      "content": "plus usettila niekde roky",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427617881794,
-      "content": "mozno bola na osemrocnom",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427616454455,
-      "content": "v 2012 skoncila skolu",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427616447913,
-      "content": "kurva ona je ale o dost starsia",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427616147643,
-      "content": "muzeum",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427616123886,
-      "content": "Ale to je dalej zba",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427616118913,
-      "content": "Danubiana",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427616089618,
-      "content": "len neviem kam ist",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427616085470,
-      "content": "budem informovat",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427616074010,
-      "content": "Videme sa coskoro",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427616066878,
-      "content": "Drzim palec",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427616044117,
-      "sticker": {
-        "uri": "messages/stickers_used/10540973_320785068115639_1351238297_n_320785064782306.png"
-      },
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427616026358,
-      "content": "Uz to neprehanaj",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427615996372,
-      "content": "ne kokos nekupim jej kvet ale semiacka a poviem ze je to ako nasa laska postupne bude rast",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427615373174,
-      "content": "sa mi mobil vybil",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427615359393,
-      "content": "mysleli sme si s dominikom",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427615350447,
-      "content": "rozjebal sa s irmi",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427615343006,
-      "content": "co si vcera robil",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427615326812,
-      "content": "dojdi",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427615292803,
-      "content": "ja ta chcem",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427615290209,
-      "content": "jeb na zeny",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427615268320,
-      "photos": [
-        {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11073021_10205218553117844_205713241_n_10205218553117844.jpg",
-          "creation_timestamp": 1427615266
-        }
-      ],
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427615234550,
-      "content": "som sa vyobliekal",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427615222581,
-      "content": "ide do tuheho",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427615215127,
-      "content": "drz sa",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427615194893,
-      "content": "no ale vyklepany som",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614718923,
-      "content": "ved toto",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427614705047,
-      "content": "Ciarka tomu dodala zmysel",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427614694303,
-      "content": "Daj,ved si karista",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614692414,
-      "content": "ok",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427614684801,
-      "content": "Podla mna kvet neurazi nikdy",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614681366,
-      "content": "??",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427614671657,
-      "content": "Daj si karista",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614647892,
-      "content": "takze kvet ano/nie?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614484780,
-      "content": "jej no to je mile, ved tak zajtra pojdeme, nie?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427614472805,
-      "content": "A odpisala?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614422384,
-      "content": "uvidime",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427614403948,
-      "content": "Gratulujem",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614394285,
-      "content": "som jej napisal Nebudem chodit okolo horkej kase zaujala si ma rad by som ta znova stretol",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614370461,
-      "content": "jasne",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427614359694,
-      "content": "Pice fakt?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614315371,
-      "content": "mame dnes rande",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614312329,
-      "content": "If",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427614308180,
-      "content": "Komu",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427614251740,
-      "content": "chlopi mam je doniest kvet?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427611230855,
-      "content": "stale",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427610398759,
-      "content": "Zase?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427607164994,
-      "content": "Profilovka",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427607142539,
-      "photos": [
-        {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11076142_10205218114066868_694663379_n_10205218114066868.jpg",
-          "creation_timestamp": 1427607141
-        }
-      ],
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427569947686,
-      "content": "ale na kompe to vidno norm\u00c3\u00a1lne",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427569940792,
-      "content": "takto tam spl\u00c3\u00bdva to anonymn\u00c3\u00bdch",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427569912621,
-      "content": "jj",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427569911963,
-      "content": "hezkyyy",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427569908317,
-      "content": "tos robil?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427569874230,
-      "photos": [
-        {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11105826_10152883997744005_1010997300_o_10152883997744005.jpg",
-          "creation_timestamp": 1427569867
-        }
-      ],
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427534690362,
-      "photos": [
-        {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11086297_10205005937981212_217117337_o_10205005937981212.jpg",
-          "creation_timestamp": 1427534689
-        }
-      ],
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427534654034,
-      "content": "Beer for frer",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427534650384,
-      "content": "Tu sa kali od rana",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jozef Negli",
-      "timestamp_ms": 1427534646151,
-      "photos": [
-        {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11081739_10205005933661104_145757543_n_10205005933661104.jpg",
-          "creation_timestamp": 1427534642
-        }
-      ],
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427533187170,
-      "content": "pekna kompozicia",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427533158626,
-      "content": "Zatisie",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427533149906,
-      "photos": [
-        {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11104099_10205749542245113_401089084_n_10205749542245113.jpg",
-          "creation_timestamp": 1427533147
-        }
-      ],
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427490071260,
-      "content": "Smadny mnich sa vari v madarsku",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427489969438,
-      "content": "Ulejeme?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427489939553,
-      "content": "Ahoj",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427478260983,
-      "content": "Nj",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427478254566,
-      "content": "Ved sme tu piati a ty si sam, tak sa prisposob alebo zdochni",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Gorazd Kme\u00c5\u00a5",
-      "timestamp_ms": 1427478245021,
-      "content": "ada a peko spolu?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427478190333,
-      "content": "Si neprisposobivy kokot",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427478068870,
-      "content": "Kkot, dojdi sem",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427478037071,
-      "content": "Tak nas ondo nalozi tam?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427478018100,
-      "content": "Som pred vchodom",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427477680583,
-      "content": "Pod!",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427477612924,
-      "content": "ouu siit",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427477611424,
-      "content": "Dojdi ty",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427477604623,
-      "content": "vykopeme iris",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427477604521,
-      "content": "Aj poly a peko a ada a sina party hard",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427477592148,
-      "content": "jaj tak dojdi ku mne",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427477572538,
-      "content": "Na tom ihrysku pri mestianskom pivovare",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427477505728,
-      "content": "edo kde si?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427477486989,
-      "content": "idem dole",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427477484178,
-      "content": "kde",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427476869649,
-      "content": "vyrazam",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427476618950,
-      "content": "Dobre ja som pri sigim",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427476411927,
-      "content": "zabijem vas :-P",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427476314559,
-      "content": "ok ale musime sa potom zastavit aj v dubravke",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427475888936,
-      "content": "https://www.youtube.com/watch?v=UUNl0l8x-fE",
-      "share": {
-        "link": "http://www.youtube.com/watch?v=UUNl0l8x-fE"
-      },
-      "type": "Share"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427475670872,
-      "content": "ya pol hodku u teba cca",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427475603649,
-      "content": "Kedy to vidis",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427475574870,
-      "content": "idem balit",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427475571467,
-      "content": "ok upratane",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427475330784,
-      "photos": [
-        {
-          "uri": "messages/inbox/KAR_YTLql9-thg/photos/11091307_10205208068215728_42363238_n_10205208068215728.jpg",
-          "creation_timestamp": 1427475328
-        }
-      ],
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427475247335,
-      "content": "Aa kam idete teda",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427474980457,
-      "content": "Nahulene",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474665475,
-      "content": "Ouu shiit podte do janacka",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427474644512,
-      "content": "Putyka, stupavar, take daco",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474607343,
-      "content": "Kam?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427474577279,
-      "content": "Ada nemoze ist proste, zp zdravotnych dovodov. Na quisse sa nepridame, ideme ao paom na pivo, dakam pobliz, ozbi sa na mobil potom, ked sa chces pridat, alebo uz pojdeme",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474517605,
-      "content": "Jo pane riditeli",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427474507540,
-      "content": "S tym quisom?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474491086,
-      "content": "Edo a mam vas vobec cakat?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474437629,
-      "content": "A darcek zo zidavie",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474428811,
-      "content": "Uz mam aj saty pre nu",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474421058,
-      "content": "Precooooo",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427474415484,
-      "content": "Ok ada nejde",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474414343,
-      "content": "Nie",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474408193,
-      "content": "sak a volal s nim dakto vobec?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474374391,
-      "sticker": {
-        "uri": "messages/stickers_used/65887576_2400411386706362_3314012863131025408_n_645898608824324.png"
-      },
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427474331698,
-      "content": "Mozno, inak to s negrom myslim bazne",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474328853,
-      "content": "Tak ju zlom",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427474314818,
-      "content": "Ada nejde, ale da sa zlomit",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474256490,
-      "content": "Ale co ta ada a hlavne kde ste uz stolujem",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474242527,
-      "content": "https://www.youtube.com/watch?v=6ylDDs3mdJE",
-      "share": {
-        "link": "http://www.youtube.com/watch?v=6ylDDs3mdJE"
-      },
-      "type": "Share"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474240282,
-      "content": "Neger",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427474210061,
-      "content": "Bud neger alebo ja",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474158055,
-      "content": "A ide ada?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474148853,
-      "content": "Jo",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474145653,
-      "content": "Dobye",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474140260,
-      "content": "neger?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474127049,
-      "content": "A cerna huba",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474126665,
-      "content": "abo budes s okna dryat",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474121465,
-      "content": "dame do kufra dako",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474116313,
-      "content": "fidel",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474109278,
-      "content": "aha",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474108037,
-      "content": "A kompost si videl",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474103213,
-      "content": "a fiki ide?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474101391,
-      "content": "Nemoye",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474098364,
-      "content": "sak uato pre 5",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474096785,
-      "content": "Fiki jobi",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427474088992,
-      "content": "jak?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474086545,
-      "content": "Ved ide stary kompos",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474079961,
-      "content": "Ale ved ak ide ona my uz nezmestime",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427474071300,
-      "content": "Ouu jeee",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427473998070,
-      "content": "Ada ta chce",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427473907671,
-      "content": "Ok",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427473829750,
-      "content": "Jak chcete",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427473805125,
-      "content": "Tak ho zavolam?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427473771014,
-      "content": "Yaye nebut takz",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427473749108,
-      "content": "V germanii",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427473745162,
-      "content": "nech ta s nim yabijem",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427473741606,
-      "content": "kde je jozo?!?!?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427473670913,
-      "content": "Ty yavolaj hintovi ked nieco chces",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427473556016,
-      "content": "yavolaj hintovi",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427473312001,
-      "content": "Lucka",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427473154968,
-      "content": ":-P",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427473153908,
-      "content": "chlapci sak viete jak sikovno rychlo viem upratovat",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427473100483,
-      "content": "Kludne o hodinu alebo tak",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427473084352,
-      "content": "ok vy prdi! musim poupratovat a mozem ist",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427473082529,
-      "content": "Zlaticko",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427473024626,
-      "content": "Ona sa boji reviorov a ze bez teba nepojfde",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427472961224,
-      "content": "nac som ju to ucil?!?!?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427472959519,
-      "content": "Keby sme robili len co sa nam chce...",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427472954638,
-      "content": "sak sinka vie ako sa dostat na dlhace",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427472934639,
-      "content": "Psa mam, a ty mas mamu",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427472928017,
-      "content": ":-P",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427472927276,
-      "content": "Sak musi",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427472926473,
-      "content": "fuuuu vobec",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427472917272,
-      "content": "Ondo nechces ist po nas potom inak?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427472915446,
-      "content": "Na terase",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427472911969,
-      "content": "Neee",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427472893041,
-      "content": "Dajme si vonku",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427472855313,
-      "content": "Nasi odisli",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427472852665,
-      "content": "Dojdi na quiche",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Fikret Sohlberg",
-      "timestamp_ms": 1427472833359,
-      "content": "Stretneme sa este v meste, to ju presvedci",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427472801981,
-      "content": "Sa aj okupem aby som nesmrdel",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Ondro Polacek",
-      "timestamp_ms": 1427472789276,
-      "content": "Nebud Jak!",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427472785494,
-      "content": "Pre moje pekne hnede oci",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Jura Kl\u00c3\u00a1sek",
-      "timestamp_ms": 1427472779679,
-      "content": "Prosim",
       "type": "Generic"
     }
   ],
