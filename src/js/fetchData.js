@@ -6,7 +6,7 @@ export const getMessages = async () => {
 
 	for (let i = 1; i < 8; i++) {
 
-		let url = `http://localhost:8080/data/message_${i}.json`;
+		let url = `data/message_${i}.json`;
 		let messages = await fetch(url);
 		messages = await messages.json();
 
