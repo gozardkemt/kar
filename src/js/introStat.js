@@ -24,12 +24,12 @@ export function introStat(messagesAll) {
 	let highestRates = winnerFrom(rates);
 	char.textContent = `${highestRates.name} píše priemerne najdlhšie správy (${highestRates.count} znakov na správu)`;
 
-	let wordCounts = counterWords(messages);
-	let text = '';
-	for (let word in wordCounts) {
-		text = text + word + '(' + wordCounts[word] + 'x) '
-	}
-	word.textContent = text;
+	// let wordCounts = counterWords(messages);
+	// let text = '';
+	// for (let word in wordCounts) {
+	// 	text = text + word + '(' + wordCounts[word] + 'x) '
+	// }
+	// word.textContent = text;
 }
 
 function winnerFrom(messages) {
